@@ -69,13 +69,59 @@ const projects = [
     },
     {
         id: 'project3',
-        title: 'Social Media Dashboard',
-        description: 'Analytics dashboard for social media management with real-time data visualization and automated reporting.',
-        skills: ['Vue.js', 'D3.js', 'Firebase', 'Chart.js'],
-        images: ['dashboard-preview.jpg'],
-        date: '2023',
-        link: 'https://your-dashboard-url.com' // Add your actual dashboard URL here
+        title: 'Look Ma, Im Famous!',
+        description: 'Website discussing the Seventh president, Andrew Jackson.',
+        skills: ['HTML', 'CSS'],
+        images: ['andrew.png'],
+        date: 'December 4, 2023',
+        link: 'https://michaelrosens.github.io/look-ma--im-famous/' // Add your actual dashboard URL here
+    },
+    {
+        id: 'project4',
+        title: 'Magic 8 Ball',
+        description: 'Ask the 8 ball a question, and it will randomly generate an answer. This was our first Javascript intensive project.',
+        skills: ['HTML', 'CSS', 'JS'],
+        images: ['8-ball.png'],
+        date: 'December 18, 2023',
+        link: 'https://michaelrosens.github.io/8-ball/' // Add your actual dashboard URL here
+    },
+    {
+        id: 'project5',
+        title: 'Birthday Site',
+        description: 'A user-friendly and javascript-heavy website displaying events that occurred on my birthday, October 12th, throughout the years.',
+        skills: ['HTML', 'CSS', 'JS'],
+        images: ['birthday.png'],
+        date: 'January 30, 2024',
+        link: 'https://michaelrosens.github.io/Birthday/' // Add your actual dashboard URL here
+    },
+    {
+        id: 'project6',
+        title: 'NBA Superteam',
+        description: 'Another early javascript website, displaying my favorite NBA players of alltime',
+        skills: ['HTML', 'CSS', 'JS'],
+        images: ['nba.png'],
+        date: 'May 16, 2024',
+        link: 'https://github.com/michaelrosens/superteam' // Add your actual dashboard URL here
+    },
+    {
+        id: 'project7',
+        title: 'TCNJ recruitment project',
+        description: 'My first project of my senior year, a website talking about the college I wanted to go, and the one I ended up committing to a few months later. ',
+        skills: ['HTML', 'CSS', 'JS'],
+        images: ['nba.png'],
+        date: 'September 20, 2024',
+        link: 'https://michaelrosens.github.io/College-Recruitment/' // Add your actual dashboard URL here
     }
+    {
+        id: 'project8',
+        title: 'Family Convenience Store Website',
+        description: 'My most recent site, as well as the longest time ever spent on one.  ',
+        skills: ['HTML', 'CSS', 'JS', 'Vue'  ],
+        images: ['nba.png'],
+        date: 'May 16, 2024',
+        link: 'https://github.com/michaelrosens/superteam' // Add your actual dashboard URL here
+    },
+
 ];
 
 // Initialize timeline
