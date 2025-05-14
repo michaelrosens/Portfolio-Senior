@@ -108,18 +108,18 @@ const projects = [
         title: 'TCNJ recruitment project',
         description: 'My first project of my senior year, a website talking about the college I wanted to go, and the one I ended up committing to a few months later. ',
         skills: ['HTML', 'CSS', 'JS'],
-        images: ['nba.png'],
+        images: ['tcn.png'],
         date: 'September 20, 2024',
         link: 'https://michaelrosens.github.io/College-Recruitment/' // Add your actual dashboard URL here
-    }
+    },
     {
         id: 'project8',
         title: 'Family Convenience Store Website',
         description: 'My most recent site, as well as the longest time ever spent on one.  ',
         skills: ['HTML', 'CSS', 'JS', 'Vue'  ],
-        images: ['nba.png'],
-        date: 'May 16, 2024',
-        link: 'https://github.com/michaelrosens/superteam' // Add your actual dashboard URL here
+        images: ['madison.png'],
+        date: 'March 14, 2025',
+        link: 'https://michaelrosens.github.io/madison-variety/' // Add your actual dashboard URL here
     },
 
 ];
